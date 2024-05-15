@@ -1,6 +1,8 @@
 <h2>Salut ! C'est Nans !</h2>
 
-💬 Discord: nans.s
+Je sais pas vraiment coder, mais j'aime bien le code !</p>
+
+<li>💬 Discord: nans.s</li>
 
 <h2>Stats</h2>
 
