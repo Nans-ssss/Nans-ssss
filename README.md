@@ -1,4 +1,4 @@
-<h2>Salut ! C'est Nans !</h2>
+<h2>Salut, c'est Nans !</h2>
 
 Je sais pas vraiment coder, mais j'aime bien le code !</p>
 
