@@ -8,4 +8,4 @@ Je sais pas vraiment coder, mais j'aime bien le code !</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nans-ssss)]
 
-[![Top Langs](https://wathelet.vercel.app/badge/type1)]
+[![Top Langs](http://wathelet.god-earth.fr/badge/type1)]
