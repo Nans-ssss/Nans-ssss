@@ -7,3 +7,5 @@ Je sais pas vraiment coder, mais j'aime bien le code !</p>
 <h2>Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nans-ssss)]
+
+[![](http://wathelet.god-earth.fr/badge/type1)]
