@@ -6,4 +6,3 @@ Je sais pas vraiment coder, mais j'aime bien le code !</p>
 
 <h2>Stats</h2>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nans-ssss)
-https://github-readme-stats.vercel.app/api/top-langs/?username=nans-ssss
